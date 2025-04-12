@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AndroidVLSM</string>
+    <string name="title_rp">Red Padre</string>
+    <string name="hint_ip">IP (ej: 172.30.4.0)</string>
+    <string name="hint_prefix">Prefijo (ej: 22)</string>
+    <string name="title_sr">Subredes</string>
+    <string name="hint_subnet_name">Nombre Subred</string>
+    <string name="hint_subnet_size">Nº Hosts</string>
+    <string name="numSubnet">Nº subredes:</string>
+    <string name="bnt_cambiar">Cambiar</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="error_invalid_number">Introduce un número válido</string>
+    <string name="subnet_label_prefix">Subred %c</string>
+    <string name="numSubnet_default">4</string>
+    <string name="title3">Resultados del Cálculo VLSM</string>
+    <string name="results_title">Resultados VLSM</string>
+    <string name="error_no_results">No se recibieron resultados válidos para mostrar.</string>
+    <string name="error_calculation_failed">Cálculo fallido</string>
+</resources>
