@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="result_text_color">#FF000000</color>
+    <color name="result_error_text_color">#D32F2F</color>
+    <color name="result_item_background">#FFFFFFFF</color>
+    <color name="result_item_border_color">#E0E0E0</color>
+    <color name="result_item_error_background">#FFEBEE</color>
 </resources>
